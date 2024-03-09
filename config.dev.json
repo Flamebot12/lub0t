@@ -12,13 +12,13 @@
 	"antiInbox": false,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "【 * 】• ＬＵＢＯＴ",
+	"nickNameBot": "[.] GOAT-BOT",
 	"prefix": "*",
 	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
 	},
-	"adminBot": ["100095290150085"],
+	"adminBot": ["100044530383890"],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [],
@@ -40,7 +40,7 @@
 	"timeZone": "Asia/Ho_Chi_Minh",
 	"credentials": {
     "gmailAccount": {
-      "email": "kaizenji2004@gmail.com",
+      "email": "mohammadsiam039@gmail.com",
       "clientId": "335951889803-q0sqvpqjire12vl0c1drqpvq6trqe7qi.apps.googleusercontent.com",
       "clientSecret": "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",
       "refreshToken": "1//04vKSsirtbMjRCgYIARAAGAQSNwF-L9Ir45Y2gJy6rg7wvfCbzF5fTFQxOhV83N6jQC-N5n6S-rNnEUgujiuWu4OvrLEbmELMcSI",
